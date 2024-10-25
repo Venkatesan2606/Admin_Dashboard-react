@@ -1,0 +1,29 @@
+{
+    "posts":[
+        {
+            "id":"1",
+            "title":"Post one",
+            "body":"This is post one body",
+            "publishedAt":"07-03-2021"
+        },
+        {
+            "id":"2",
+            "title":"Post two",
+            "body":"This is post two body",
+            "publishedAt":"04-07-2021"
+        },
+        {
+            "id":"3",
+            "title":"Post three",
+            "body":"This is post three body",
+            "publishedAt":"04-07-2021"
+        }
+    ],
+    "users":[
+        {
+            "name":"venkat",
+             "email":"venkatsri@gmail.com",
+             "id":"xyz"
+        }
+    ]
+}
